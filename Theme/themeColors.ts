@@ -54,6 +54,7 @@ export const ThemeColors = {
     10: "#35B979",
     11: "#3DD68C",
     12: "#E6FFE6",
+    13: "#348352",
   },
   Red: {
     1: "#240000",
@@ -68,6 +69,7 @@ export const ThemeColors = {
     10: "#F26669",
     11: "#FF8589",
     12: "#FFD1D9",
+    13: "#E63535",
   },
   orange: {
     9: "#F76808",
